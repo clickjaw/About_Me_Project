@@ -57,7 +57,9 @@ Welcome to your first reading notes file! Reading notes are important because th
     - integers
 
 3. **What are 3 best practices in Javascript?**
-    - 
+    - Choose a Javascript coding style guide
+    - Give descriptive names to variables
+    - create helper functions for common tasks
 
 4. **How do we add Javascript in our HTML document?**
     - We can add JS to our html by using the <script src = ".js></src> wherever we want the JS to trigger on the webpage.
@@ -65,11 +67,12 @@ Welcome to your first reading notes file! Reading notes are important because th
 ## Markdown 
 
 1. Why do we use Markdown?
-    - You would use Markdown to create a simple and easy to 
+    - You would use Markdown to create a simple and easy to read and structure a document or webpage explaining your code. 
 2. How do you make a link in Markdown?
     - you put the title of what you want the link to be in [title] then the link("www.nothing.com")
 3. List 2 ways to make text **bold** in Markdown
-
+    - **bold text**
+    - __bold text__
 
 
 ## Any thoughts / comments you would like to add?
