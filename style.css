@@ -4,11 +4,30 @@ body {
 }
 h1{
     color:black;
+    background-color: #FFFF66;
+    width: 500px;
+    margin-left: 20px;
+    padding: 20px;
+    border-radius: 15px;
+    display: inline;
+    border: 11px solid black;
+    font-family: Arial;
 
 }
 
 h2{
-    color:black;
+    width: 600px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 11px solid darkgray;
+    border-radius: 15px;    
+    font-family: Arial;
 }
 .para{
     width: 600px;
@@ -16,9 +35,10 @@ h2{
     color: white;
     margin-top: 10px;
     margin-bottom: 10px;
-    margin-left: 10px;
+    margin-left: 20px;
     margin-right: 10px;
     padding: 20px solid black;
     border: 11px solid black;
     border-radius: 15px;
+    font-family: ;
 }
