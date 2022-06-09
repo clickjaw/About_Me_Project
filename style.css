@@ -5,16 +5,14 @@ body {
 h1{
     color:black;
     background-color: #FFFF66;
-    width: 500px;
-    margin-left: 20px;
+    width: 600px;
+    margin-left: 195px;
     padding: 20px;
     border-radius: 15px;
     display: inline;
     border: 11px solid black;
     font-family: Arial;
-
 }
-
 h2{
     width: 600px;
     height: 30px;
@@ -26,19 +24,30 @@ h2{
     margin-left: 20px;
     margin-right: 20px;
     border: 11px solid darkgray;
-    border-radius: 15px;    
+    border-radius: 15px;
     font-family: Arial;
 }
 .para{
+    /* width: 600px;
+    background-color: black;
+    color: white;
+    padding: 20px solid black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 11px solid orange;
+    border-radius: 15px;
+    font-family: ; */
     width: 600px;
     background-color: black;
     color: white;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     margin-left: 20px;
-    margin-right: 10px;
-    padding: 20px solid black;
+    margin-right: 20px;
     border: 11px solid black;
     border-radius: 15px;
-    font-family: ;
+    font-family: Arial;
 }
