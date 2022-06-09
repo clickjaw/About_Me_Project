@@ -88,6 +88,11 @@ let count = 0;
 const food = ["pizza", "steak", "sushi"];
 for (i = 6; i > 0; i--){
 
+if (count == 3){
+  bigCount++ 
+  alert("You got them all. We're best friends.")
+  break;
+}
 let answer = prompt("Try to name one of my favorite foods: ");
 
 if (answer == food[0]){
@@ -100,10 +105,6 @@ if (answer == food[0]){
 }else if (answer == food[2]){
   count++
   alert("Sushi. Score: " + count);
-}else if (count == 3){
-  bigCount++
-  alert("You got them all. We're best friends.")
-  break;
 }else {
   alert("I might like that. But it isn't in this array.");
 }
