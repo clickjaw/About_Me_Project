@@ -133,5 +133,5 @@ if (bigCount <= 4){
 alert("Thanks for reading, " + username + ". Your score is " + bigCount + ".");}
 
 
-
+// document.getElementById("button") = 
 
